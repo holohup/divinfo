@@ -1,0 +1,4 @@
+aiogram>=3.7.0
+tinkoff-investments>=0.2.0b100
+environs>=11.0.0
+pytest>=8.2.2
